@@ -10,7 +10,7 @@ env:
   SERVICE_NAME: erp-api
   SERVICE_PORT: 5003
   SERVICE_DB: oros_erp
-  REGISTRY_OWNER: changeme       # ← Change to GitHub username/org (MUST be lowercase)
+  REGISTRY_OWNER: taiwo-peter       # ← Change to GitHub username/org (MUST be lowercase)
 
 jobs:
   test:
